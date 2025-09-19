@@ -15,3 +15,4 @@
 - docs: link the usage section
 - chore: link the usage section
 - docs: add a note about the defaults
+- fix: clarify the setup steps
